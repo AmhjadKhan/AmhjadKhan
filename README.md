@@ -1,4 +1,4 @@
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amjad-hossain-7311a1225//) 
+ 
 ### Hi there 👋, My name is Amjad Hossain
 #### JUNIOR FRONTEND DEVELOPER
 ![JUNIOR FRONTEND DEVELOPER](https://media.licdn.com/dms/image/D5616AQHDCDAaUoaIfg/profile-displaybackgroundimage-shrink_350_1400/0/1684938136356?e=1709164800&v=beta&t=yjjmtOCpI7idt-0sFU6FohW4QBOfklOWDHj8nWTjIIo)
