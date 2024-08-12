@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **amjadkhancu200@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-9bfZICU3WESlD3FTs9geKcR005HvD0N/view](https://drive.google.com/file/d/1-9bfZICU3WESlD3FTs9geKcR005HvD0N/view)
+- 📄 Know about my experiences [file:///G:/My%20Drive/resume%20of%20amhjad.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
