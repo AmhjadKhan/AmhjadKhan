@@ -36,3 +36,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amhjadkhan&show_icons=true&locale=en" alt="amhjadkhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amhjadkhan&" alt="amhjadkhan" /></p>
+
+<h1>HERE IS SOME PROJECT</h1>
+<h3>REACT JS:-</h3>
+<h5>Cripto:- <a href="https://criptotter.netlify.app/"> CLICK HERE</a></h5>
+<h3>MERN STACK:-</h3>
+<h5>Resturent order:- <a href="https://resturentorders.netlify.app/"> CLICK HERE</a></h5>
