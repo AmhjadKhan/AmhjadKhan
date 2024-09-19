@@ -38,18 +38,18 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amhjadkhan&" alt="amhjadkhan" /></p>
 
 <h1>HERE IS SOME PROJECT</h1>
-<h3>web Design(Html || Css):-</h3>
-<h5>Banker web Design:- <a href="https://amhjadkhan.github.io/samim-osman/"> CLICK HERE</a></h5> <h5>Code:-<a href='https://github.com/AmhjadKhan/samim-osman'>Click Me see Repo</a>
 
+<h3>Web Design (Html || Css):</h3>
+<h5>Banker Web Design: <a href="https://amhjadkhan.github.io/samim-osman/">Live Site</a> | <a href="https://github.com/AmhjadKhan/samim-osman">Repository</a></h5>
 
-<h3>REACT JS:-</h3>
-<h5>Cripto:- <a href="https://criptotter.netlify.app/"> CLICK HERE</a></h5> <h5>Code:-<a href='https://github.com/AmhjadKhan/Crypto'>Click Me see Repo</a>
-<h5>Coffee order:- <a href="https://ducoffeestore.netlify.app/"> CLICK HERE</a></h5> <h5>Code:-<a href='https://github.com/AmhjadKhan/coffeestoreclint'>Click Me see Repo</a>
-<h5>Mobile Phone:- <a href="https://dumobileshop.netlify.app/"> CLICK HERE</a></h5> <h5>Code:-<a href='https://github.com/AmhjadKhan/phoneproject'>Click Me see Repo</a>
-  
-<h3>FULL STACK PROJECT (MERN) :-</h3>
-<h5>Nursary plant:- <a href="https://onlinenursarybook.netlify.app/"> CLICK HERE</a></h5> <h5>Code:-<a href='https://github.com/AmhjadKhan/Online-nursary-Frontend'>Click Me frontend Repo</a> <h5>Code:-<a href='https://github.com/AmhjadKhan/onlinenursary-server'>Click Me Backend Repo</a>
-<h5>Resturent order:- <a href="https://resturentorders.netlify.app/"> CLICK HERE</a></h5> <h5>Code:-<a href='https://github.com/AmhjadKhan/resturent_clint'>Click Me frontend Repo</a> <h5>Code:-<a href='https://github.com/AmhjadKhan/Resturent_server'>Click Me Backend Repo</a>
-<h5>Coffee simple:- <a href="https://ducoffeestore.netlify.app/"> CLICK HERE</a></h5> <h5>Code:-<a href='https://github.com/AmhjadKhan/coffeestoreclint'>Click Me frontend Repo</a> <h5>Code:-<a href='https://github.com/AmhjadKhan/coffeebackend'>Click Me Backend Repo</a>
+<h3>REACT JS:</h3>
+<h5>Cripto: <a href="https://criptotter.netlify.app/">Live Site</a> | <a href="https://github.com/AmhjadKhan/Crypto">Repository</a></h5>
+<h5>Coffee Order: <a href="https://ducoffeestore.netlify.app/">Live Site</a> | <a href="https://github.com/AmhjadKhan/coffeestoreclint">Repository</a></h5>
+<h5>Mobile Phone: <a href="https://dumobileshop.netlify.app/">Live Site</a> | <a href="https://github.com/AmhjadKhan/phoneproject">Repository</a></h5>
+
+<h3>FULL STACK PROJECT (MERN):</h3>
+<h5>Nursary Plant: <a href="https://onlinenursarybook.netlify.app/">Live Site</a> | <a href="https://github.com/AmhjadKhan/Online-nursary-Frontend">Frontend Repo</a> | <a href="https://github.com/AmhjadKhan/onlinenursary-server">Backend Repo</a></h5>
+<h5>Resturent Order: <a href="https://resturentorders.netlify.app/">Live Site</a> | <a href="https://github.com/AmhjadKhan/resturent_clint">Frontend Repo</a> | <a href="https://github.com/AmhjadKhan/Resturent_server">Backend Repo</a></h5>
+<h5>Coffee Simple: <a href="https://ducoffeestore.netlify.app/">Live Site</a> | <a href="https://github.com/AmhjadKhan/coffeestoreclint">Frontend Repo</a> | <a href="https://github.com/AmhjadKhan/coffeebackend">Backend Repo</a></h5>
 
 
